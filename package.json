@@ -1,0 +1,10 @@
+{
+  "name": "mailosaur-sms-reply-poc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.17.1",
+    "mailosaur": "^8.1.0"
+  }
+}
